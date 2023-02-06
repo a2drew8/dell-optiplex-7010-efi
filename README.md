@@ -1,6 +1,6 @@
-# dell-optiplex-7010-efi
+# dell optiplex 7010 opencore efi
 Opencore 0.8.8 efi files for running Macos Monterey
-On a Dell optiplex 7010 and a gt730
+On a Dell optiplex 7010 (ivy bridge) and a gt730
 
 
 ![Screen Shot 2023-02-06 at 14 38 41](https://user-images.githubusercontent.com/82539917/217002950-1af17a5c-9f85-4214-883b-5bdbdfbcdf13.png)
