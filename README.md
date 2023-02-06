@@ -1,0 +1,1 @@
+# dell-optiplex-7010-efi
