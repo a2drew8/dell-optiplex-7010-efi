@@ -5,6 +5,10 @@ On a Dell optiplex 7010 and a gt730
 # whats working
 - Gpu acceleration work though opencore legacy patcher 
 - Usb tethering 
+- usb wifi adapters https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+- usb bluetooth using BlueToolFixup https://github.com/acidanthera/BrcmPatchRAM/releases
+- 
+- 
 # whats not working
 - Usb map are not completely working
 - Sharing screen results in pink screen
